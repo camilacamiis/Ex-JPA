@@ -1,0 +1,96 @@
+mai. 22, 2023 6:42:03 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 6:42:03 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 6:42:03 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 6:44:01 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 6:44:01 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 6:44:01 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 6:46:50 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 6:46:50 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 6:46:50 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:09:09 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:09:09 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:09:09 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:09:37 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:09:37 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:09:37 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:10:08 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:10:08 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:10:08 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:11:46 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:11:46 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:11:46 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:24:46 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:24:46 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:24:46 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:25:35 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:25:35 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:25:35 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:30:45 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:30:45 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:30:45 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:31:16 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:31:16 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:31:16 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:32:22 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:32:22 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:32:22 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:35:35 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:35:35 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:35:35 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:37:32 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:37:33 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:37:33 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:37:37 PM Principal.OneToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 22, 2023 7:39:50 PM Principal.OneToOne main
+INFORMAÇÕES: Log de informação
+mai. 22, 2023 7:39:50 PM Principal.OneToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 22, 2023 7:39:50 PM Principal.OneToOne main
+GRAVE: Log Severo
+mai. 22, 2023 7:39:53 PM Principal.OneToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
